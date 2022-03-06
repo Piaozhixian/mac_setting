@@ -1,0 +1,11 @@
+# set this file to ~/.gitconfig
+[user]
+	name = Piao
+	email = pakushiken@gmail.com
+[alias]
+	st = status
+	br = branch
+	cm = commit
+	co = checkout
+[ghq]
+	root = /Users/zhixianpiao/go/src
